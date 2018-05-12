@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8815
     wikipedia: http://en.wikipedia.org/wiki/Ferdinando_I_de%27_Medici%2C_Grand_Duke_of_Tuscany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19688#Documento-che-invita-i-mercanti-ebrei-a-stabilirsi-in-Livorno-e-Pisa--Costituzione-Livornina-_
 gutenberg_bookshelf: IT Legge
 gutenberg_issued: '2006-10-31'
 gutenberg_type: Text
