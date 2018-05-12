@@ -1,0 +1,31 @@
+_repo: Documento-che-invita-i-mercanti-ebrei-a-stabilirsi-in-Livorno-e-Pisa--Costituzione-Livornina-__19688
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferdinando I, Grand-Duke of Tuscany
+    birthdate: 1549
+    deathdate: 1609
+    gutenberg_agent_id: '8815'
+    url: http://www.gutenberg.org/2009/agents/8815
+    wikipedia: http://en.wikipedia.org/wiki/Ferdinando_I_de%27_Medici%2C_Grand_Duke_of_Tuscany
+description: ''
+gutenberg_bookshelf: IT Legge
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19688'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- Sources'
+title: 'Documento che invita i mercanti ebrei a stabilirsi in Livorno e Pisa (Costituzione
+  Livornina)
+
+  Shoenberg Collection - Manuscript Number: ljs379'
+url: http://www.gutenberg.org/ebooks/19688
